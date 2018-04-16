@@ -222,6 +222,7 @@ body {
 
     .main-section {
         width: 75%;
+        margin: 0 0 300px 0;
     }
     
     .work {
@@ -237,6 +238,7 @@ body {
 
     .main-section {
         width: 100%;
+        margin: 0 0 300px 0;
     }
 
     .main-container {
@@ -247,6 +249,7 @@ body {
   @media only screen and (max-width:640px) {
       .main-section {
           width:100%;
+          margin: 0 0 300px 0;
       }
 
       .work {
